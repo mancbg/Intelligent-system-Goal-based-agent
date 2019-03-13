@@ -18,7 +18,7 @@ sys arguments: input maze file of format .txt (check sample inputs)
 **N Queens Problem**
 
 Given n-queens problem where number of queens is specified by the user, the program finds the solution.
-(https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+What is the N-queens problem: https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
 File to run: nqueens.py 
 Sys argument: Number of queens to be placed on the board
