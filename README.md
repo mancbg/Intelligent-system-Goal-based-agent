@@ -1,4 +1,4 @@
-# Intelligent-system
+# Intelligent-system : Goal Based Agent
 Implementation of a kind of goal based agent: Problem solving agent. 
 
 The program has two types of searches implemented: Uninformed (IDS) and Informed (A*) search. A-star search has four different heuristics: two good and two not-so-good heuristics to analyze how a good heuristic can give better results.
