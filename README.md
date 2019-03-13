@@ -10,16 +10,16 @@ Two problems formulated are, Maze solver (Problem.py) and N-queeens Game (nqueen
 
 **Maze Solver**
 
-Given a maze of 0s representing obstacles and 1s representing path, the program finds a path from top left to right bottom corner.
+Given a maze of 0s representing obstacles and 1s representing path, the program finds the shortest path (with A star search) and a path (not necessarily shortest, with IDS) from top left corner to right bottom corner.
 
-File to run: Problem.py
-sys arguments: input maze file of format .txt (check sample inputs)
+- File to run: Problem.py
+- sys arguments: input maze file of format .txt (check sample inputs)
 
 **N Queens Problem**
 
 Given n-queens problem where number of queens is specified by the user, the program finds the solution.
 What is the N-queens problem: https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
-File to run: nqueens.py 
-Sys argument: Number of queens to be placed on the board
+- File to run: nqueens.py
+- Sys argument: Number of queens to be placed on the board
 
