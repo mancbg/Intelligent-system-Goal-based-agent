@@ -9,10 +9,12 @@ Two problems formulated are: Maze solver (Problem.py) and N-queeens Game (nqueen
 Two problems formulated are, Maze solver (Problem.py) and N-queeens Game (nqueens.py).
 
 **Maze Solver**
+
 File to run: Problem.py
 sys arguments: input maze file of format .txt (check sample inputs)
 
 **N Queens Problem**
+
 File to run: nqueens.py 
 Sys argument: Number of queens to be placed on the board
 
